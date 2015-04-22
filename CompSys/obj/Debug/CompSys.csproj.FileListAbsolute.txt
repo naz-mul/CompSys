@@ -1,0 +1,319 @@
+E:\SE_Prototype\CompSys\CompSys\bin\Debug\CompSys.exe.config
+E:\SE_Prototype\CompSys\CompSys\bin\Debug\CompSys.exe
+E:\SE_Prototype\CompSys\CompSys\bin\Debug\CompSys.pdb
+E:\SE_Prototype\CompSys\CompSys\obj\Debug\CompSys.csprojResolveAssemblyReference.cache
+E:\SE_Prototype\CompSys\CompSys\obj\Debug\CompSys.frmMain.resources
+E:\SE_Prototype\CompSys\CompSys\obj\Debug\CompSys.Properties.Resources.resources
+E:\SE_Prototype\CompSys\CompSys\obj\Debug\CompSys.csproj.GenerateResource.Cache
+E:\SE_Prototype\CompSys\CompSys\obj\Debug\CompSys.exe
+E:\SE_Prototype\CompSys\CompSys\obj\Debug\CompSys.pdb
+C:\Users\Nazzy\Desktop\SE_Prototype\CompSys\CompSys\bin\Debug\CompSys.exe.config
+C:\Users\Nazzy\Desktop\SE_Prototype\CompSys\CompSys\obj\Debug\CompSys.exe
+C:\Users\Nazzy\Desktop\SE_Prototype\CompSys\CompSys\obj\Debug\CompSys.pdb
+C:\Users\Nazzy\Desktop\SE_Prototype\CompSys\CompSys\bin\Debug\CompSys.exe
+C:\Users\Nazzy\Desktop\SE_Prototype\CompSys\CompSys\bin\Debug\CompSys.pdb
+C:\Users\Nazzy\Desktop\SE_Prototype\CompSys\CompSys\obj\Debug\CompSys.csprojResolveAssemblyReference.cache
+C:\Users\Nazzy\Desktop\SE_Prototype\CompSys\CompSys\obj\Debug\CompSys.frmMain.resources
+C:\Users\Nazzy\Desktop\SE_Prototype\CompSys\CompSys\obj\Debug\CompSys.Properties.Resources.resources
+C:\Users\Nazzy\Desktop\SE_Prototype\CompSys\CompSys\obj\Debug\CompSys.csproj.GenerateResource.Cache
+C:\Users\Nazzy\Desktop\SE_Prototype\CompSys\CompSys\obj\Debug\CompSys.frmNewStaff.resources
+C:\Users\Nazzy\Desktop\SE_Prototype\CompSys\CompSys\obj\Debug\CompSys.frmAmendStaff.resources
+C:\Users\Nazzy\Desktop\SE_Prototype\CompSys\CompSys\obj\Debug\CompSys.frmListStaff.resources
+C:\Users\Nazzy\Desktop\SE_Prototype\CompSys\CompSys\obj\Debug\CompSys.frmNewCustomer.resources
+C:\Users\Nazzy\Desktop\SE_Prototype\CompSys\CompSys\obj\Debug\CompSys.frmListCustomer.resources
+C:\Users\Nazzy\Desktop\SE_Prototype\CompSys\CompSys\obj\Debug\CompSys.frmAmendCustomer.resources
+C:\Users\Nazzy\Desktop\SE_Prototype\CompSys\CompSys\bin\Debug\Oracle.DataAccess.dll
+C:\Users\Nazzy\Desktop\SE_Prototype\CompSys\CompSys\obj\Debug\CompSys.frmSetRepairRate.resources
+C:\Users\Nazzy\Desktop\SE_Prototype\CompSys\CompSys\obj\Debug\CompSys.frmLogin.resources
+C:\Users\Nazzy\Desktop\SE_Prototype\CompSys\CompSys\obj\Debug\CompSys.frmQueryCustomer.resources
+C:\Users\Nazzy\Desktop\SE_Prototype\CompSys\CompSys\obj\Debug\CompSys.frmNewRepair.resources
+C:\Users\Nazzy\Desktop\SE_Prototype\CompSys\CompSys\obj\Debug\CompSys.frmSetEstimate.resources
+C:\Users\Nazzy\Desktop\SE_Prototype\CompSys\CompSys\obj\Debug\CompSys.frmValidateRepair.resources
+C:\Users\Nazzy\Desktop\SE_Prototype\CompSys\CompSys\obj\Debug\CompSys.frmFinaliseRepair.resources
+C:\Users\Nazzy\Desktop\SE_Prototype\CompSys\CompSys\obj\Debug\CompSys.frmCollectRepair.resources
+C:\Users\Nazzy\Desktop\SE_Prototype\CompSys\CompSys\obj\Debug\CompSys.frmRepairReport.resources
+C:\Users\Nazzy\Desktop\SE_Prototype\CompSys\CompSys\obj\Debug\CompSys.frmListRepairJobs.resources
+C:\Users\Nazzy\Desktop\SE_Prototype\CompSys\CompSys\obj\Debug\CompSys.frmIssueInvoice.resources
+C:\Users\Nazzy\Desktop\SE_Prototype\CompSys\CompSys\obj\Debug\CompSys.frmIncomeAnalysis.resources
+I:\SE_Prototype\CompSys\CompSys\bin\Debug\CompSys.exe.config
+I:\SE_Prototype\CompSys\CompSys\obj\Debug\CompSys.exe
+I:\SE_Prototype\CompSys\CompSys\obj\Debug\CompSys.pdb
+C:\Users\t00152975\Desktop\SE_Prototype\CompSys\CompSys\bin\Debug\CompSys.exe.config
+C:\Users\t00152975\Desktop\SE_Prototype\CompSys\CompSys\obj\Debug\CompSys.exe
+C:\Users\t00152975\Desktop\SE_Prototype\CompSys\CompSys\obj\Debug\CompSys.pdb
+C:\Users\t00152975\Desktop\SE_Prototype\CompSys\CompSys\bin\Debug\CompSys.exe
+C:\Users\t00152975\Desktop\SE_Prototype\CompSys\CompSys\bin\Debug\CompSys.pdb
+C:\Users\t00152975\Desktop\SE_Prototype\CompSys\CompSys\bin\Debug\Oracle.DataAccess.dll
+C:\Users\t00152975\Desktop\SE_Prototype\CompSys\CompSys\obj\Debug\CompSys.csprojResolveAssemblyReference.cache
+C:\Users\t00152975\Desktop\SE_Prototype\CompSys\CompSys\obj\Debug\CompSys.frmAmendCustomer.resources
+C:\Users\t00152975\Desktop\SE_Prototype\CompSys\CompSys\obj\Debug\CompSys.frmAmendStaff.resources
+C:\Users\t00152975\Desktop\SE_Prototype\CompSys\CompSys\obj\Debug\CompSys.frmCollectRepair.resources
+C:\Users\t00152975\Desktop\SE_Prototype\CompSys\CompSys\obj\Debug\CompSys.frmFinaliseRepair.resources
+C:\Users\t00152975\Desktop\SE_Prototype\CompSys\CompSys\obj\Debug\CompSys.frmIncomeAnalysis.resources
+C:\Users\t00152975\Desktop\SE_Prototype\CompSys\CompSys\obj\Debug\CompSys.frmIssueInvoice.resources
+C:\Users\t00152975\Desktop\SE_Prototype\CompSys\CompSys\obj\Debug\CompSys.frmListCustomer.resources
+C:\Users\t00152975\Desktop\SE_Prototype\CompSys\CompSys\obj\Debug\CompSys.frmListStaff.resources
+C:\Users\t00152975\Desktop\SE_Prototype\CompSys\CompSys\obj\Debug\CompSys.frmLogin.resources
+C:\Users\t00152975\Desktop\SE_Prototype\CompSys\CompSys\obj\Debug\CompSys.frmMain.resources
+C:\Users\t00152975\Desktop\SE_Prototype\CompSys\CompSys\obj\Debug\CompSys.frmNewCustomer.resources
+C:\Users\t00152975\Desktop\SE_Prototype\CompSys\CompSys\obj\Debug\CompSys.frmNewRepair.resources
+C:\Users\t00152975\Desktop\SE_Prototype\CompSys\CompSys\obj\Debug\CompSys.frmNewStaff.resources
+C:\Users\t00152975\Desktop\SE_Prototype\CompSys\CompSys\obj\Debug\CompSys.frmQueryCustomer.resources
+C:\Users\t00152975\Desktop\SE_Prototype\CompSys\CompSys\obj\Debug\CompSys.frmRepairReport.resources
+C:\Users\t00152975\Desktop\SE_Prototype\CompSys\CompSys\obj\Debug\CompSys.frmSetEstimate.resources
+C:\Users\t00152975\Desktop\SE_Prototype\CompSys\CompSys\obj\Debug\CompSys.frmSetRepairRate.resources
+C:\Users\t00152975\Desktop\SE_Prototype\CompSys\CompSys\obj\Debug\CompSys.frmValidateRepair.resources
+C:\Users\t00152975\Desktop\SE_Prototype\CompSys\CompSys\obj\Debug\CompSys.frmListRepairJobs.resources
+C:\Users\t00152975\Desktop\SE_Prototype\CompSys\CompSys\obj\Debug\CompSys.Properties.Resources.resources
+C:\Users\t00152975\Desktop\SE_Prototype\CompSys\CompSys\obj\Debug\CompSys.csproj.GenerateResource.Cache
+I:\Edited\SE_Prototype\CompSys\CompSys\bin\Debug\CompSys.exe.config
+I:\Edited\SE_Prototype\CompSys\CompSys\obj\Debug\CompSys.exe
+I:\Edited\SE_Prototype\CompSys\CompSys\obj\Debug\CompSys.pdb
+I:\Edited\SE_Prototype\CompSys\CompSys\obj\Debug\CompSys.csprojResolveAssemblyReference.cache
+I:\Edited\SE_Prototype\CompSys\CompSys\obj\Debug\CompSys.frmAmendCustomer.resources
+I:\Edited\SE_Prototype\CompSys\CompSys\obj\Debug\CompSys.frmAmendStaff.resources
+I:\Edited\SE_Prototype\CompSys\CompSys\obj\Debug\CompSys.frmCollectRepair.resources
+I:\Edited\SE_Prototype\CompSys\CompSys\obj\Debug\CompSys.frmFinaliseRepair.resources
+I:\Edited\SE_Prototype\CompSys\CompSys\obj\Debug\CompSys.frmIncomeAnalysis.resources
+I:\Edited\SE_Prototype\CompSys\CompSys\obj\Debug\CompSys.frmIssueInvoice.resources
+I:\Edited\SE_Prototype\CompSys\CompSys\obj\Debug\CompSys.frmListCustomer.resources
+I:\Edited\SE_Prototype\CompSys\CompSys\obj\Debug\CompSys.frmListStaff.resources
+I:\Edited\SE_Prototype\CompSys\CompSys\obj\Debug\CompSys.frmLogin.resources
+I:\Edited\SE_Prototype\CompSys\CompSys\obj\Debug\CompSys.frmMain.resources
+I:\Edited\SE_Prototype\CompSys\CompSys\obj\Debug\CompSys.frmNewCustomer.resources
+I:\Edited\SE_Prototype\CompSys\CompSys\obj\Debug\CompSys.frmNewRepair.resources
+I:\Edited\SE_Prototype\CompSys\CompSys\obj\Debug\CompSys.frmNewStaff.resources
+I:\Edited\SE_Prototype\CompSys\CompSys\obj\Debug\CompSys.frmQueryCustomer.resources
+I:\Edited\SE_Prototype\CompSys\CompSys\obj\Debug\CompSys.frmRepairReport.resources
+I:\Edited\SE_Prototype\CompSys\CompSys\obj\Debug\CompSys.frmSetEstimate.resources
+I:\Edited\SE_Prototype\CompSys\CompSys\obj\Debug\CompSys.frmSetRepairRate.resources
+I:\Edited\SE_Prototype\CompSys\CompSys\obj\Debug\CompSys.frmValidateRepair.resources
+I:\Edited\SE_Prototype\CompSys\CompSys\obj\Debug\CompSys.frmListRepairJobs.resources
+I:\Edited\SE_Prototype\CompSys\CompSys\obj\Debug\CompSys.Properties.Resources.resources
+I:\Edited\SE_Prototype\CompSys\CompSys\obj\Debug\CompSys.csproj.GenerateResource.Cache
+I:\Edited\SE_Prototype\CompSys\CompSys\bin\Debug\CompSys.exe
+I:\Edited\SE_Prototype\CompSys\CompSys\bin\Debug\CompSys.pdb
+I:\Edited\SE_Prototype\CompSys\CompSys\bin\Debug\Oracle.DataAccess.dll
+I:\SD_SE_Ass01_Alam_N\SE_Prototype\CompSys\CompSys\bin\Debug\CompSys.exe.config
+I:\SD_SE_Ass01_Alam_N\SE_Prototype\CompSys\CompSys\obj\Debug\CompSys.exe
+I:\SD_SE_Ass01_Alam_N\SE_Prototype\CompSys\CompSys\obj\Debug\CompSys.pdb
+J:\SD_SE_Ass01_Alam_N\SE_Prototype\CompSys\CompSys\bin\Debug\CompSys.exe.config
+J:\SD_SE_Ass01_Alam_N\SE_Prototype\CompSys\CompSys\obj\Debug\CompSys.exe
+J:\SD_SE_Ass01_Alam_N\SE_Prototype\CompSys\CompSys\obj\Debug\CompSys.pdb
+C:\Users\Nazzy\Documents\MEGAsync\Software Engineering Project\Project\SE_Software\CompSys\CompSys\bin\Debug\CompSys.exe.config
+C:\Users\Nazzy\Documents\MEGAsync\Software Engineering Project\Project\SE_Software\CompSys\CompSys\obj\Debug\CompSys.exe
+C:\Users\Nazzy\Documents\MEGAsync\Software Engineering Project\Project\SE_Software\CompSys\CompSys\obj\Debug\CompSys.pdb
+C:\Users\Nazzy\Documents\MEGAsync\Software Engineering Project\Project\SE_Software\CompSys\CompSys\bin\Debug\CompSys.exe
+C:\Users\Nazzy\Documents\MEGAsync\Software Engineering Project\Project\SE_Software\CompSys\CompSys\bin\Debug\CompSys.pdb
+C:\Users\Nazzy\Documents\MEGAsync\Software Engineering Project\Project\SE_Software\CompSys\CompSys\obj\Debug\CompSys.csprojResolveAssemblyReference.cache
+C:\Users\Nazzy\Documents\MEGAsync\Software Engineering Project\Project\SE_Software\CompSys\CompSys\obj\Debug\CompSys.frmAmendCustomer.resources
+C:\Users\Nazzy\Documents\MEGAsync\Software Engineering Project\Project\SE_Software\CompSys\CompSys\obj\Debug\CompSys.frmAmendStaff.resources
+C:\Users\Nazzy\Documents\MEGAsync\Software Engineering Project\Project\SE_Software\CompSys\CompSys\obj\Debug\CompSys.frmCollectRepair.resources
+C:\Users\Nazzy\Documents\MEGAsync\Software Engineering Project\Project\SE_Software\CompSys\CompSys\obj\Debug\CompSys.frmFinaliseRepair.resources
+C:\Users\Nazzy\Documents\MEGAsync\Software Engineering Project\Project\SE_Software\CompSys\CompSys\obj\Debug\CompSys.frmIncomeAnalysis.resources
+C:\Users\Nazzy\Documents\MEGAsync\Software Engineering Project\Project\SE_Software\CompSys\CompSys\obj\Debug\CompSys.frmIssueInvoice.resources
+C:\Users\Nazzy\Documents\MEGAsync\Software Engineering Project\Project\SE_Software\CompSys\CompSys\obj\Debug\CompSys.frmListCustomer.resources
+C:\Users\Nazzy\Documents\MEGAsync\Software Engineering Project\Project\SE_Software\CompSys\CompSys\obj\Debug\CompSys.frmListStaff.resources
+C:\Users\Nazzy\Documents\MEGAsync\Software Engineering Project\Project\SE_Software\CompSys\CompSys\obj\Debug\CompSys.frmLogin.resources
+C:\Users\Nazzy\Documents\MEGAsync\Software Engineering Project\Project\SE_Software\CompSys\CompSys\obj\Debug\CompSys.frmMain.resources
+C:\Users\Nazzy\Documents\MEGAsync\Software Engineering Project\Project\SE_Software\CompSys\CompSys\obj\Debug\CompSys.frmNewCustomer.resources
+C:\Users\Nazzy\Documents\MEGAsync\Software Engineering Project\Project\SE_Software\CompSys\CompSys\obj\Debug\CompSys.frmNewRepair.resources
+C:\Users\Nazzy\Documents\MEGAsync\Software Engineering Project\Project\SE_Software\CompSys\CompSys\obj\Debug\CompSys.frmNewStaff.resources
+C:\Users\Nazzy\Documents\MEGAsync\Software Engineering Project\Project\SE_Software\CompSys\CompSys\obj\Debug\CompSys.frmQueryCustomer.resources
+C:\Users\Nazzy\Documents\MEGAsync\Software Engineering Project\Project\SE_Software\CompSys\CompSys\obj\Debug\CompSys.frmRepairReport.resources
+C:\Users\Nazzy\Documents\MEGAsync\Software Engineering Project\Project\SE_Software\CompSys\CompSys\obj\Debug\CompSys.frmSetEstimate.resources
+C:\Users\Nazzy\Documents\MEGAsync\Software Engineering Project\Project\SE_Software\CompSys\CompSys\obj\Debug\CompSys.frmSetRepairRate.resources
+C:\Users\Nazzy\Documents\MEGAsync\Software Engineering Project\Project\SE_Software\CompSys\CompSys\obj\Debug\CompSys.frmValidateRepair.resources
+C:\Users\Nazzy\Documents\MEGAsync\Software Engineering Project\Project\SE_Software\CompSys\CompSys\obj\Debug\CompSys.frmListRepairJobs.resources
+C:\Users\Nazzy\Documents\MEGAsync\Software Engineering Project\Project\SE_Software\CompSys\CompSys\obj\Debug\CompSys.Properties.Resources.resources
+C:\Users\Nazzy\Documents\MEGAsync\Software Engineering Project\Project\SE_Software\CompSys\CompSys\obj\Debug\CompSys.csproj.GenerateResource.Cache
+C:\Users\t00152975\Documents\MEGAsync\Software Engineering Project\Project\SE_Software\CompSys\CompSys\bin\Debug\CompSys.exe.config
+C:\Users\t00152975\Documents\MEGAsync\Software Engineering Project\Project\SE_Software\CompSys\CompSys\obj\Debug\CompSys.exe
+C:\Users\t00152975\Documents\MEGAsync\Software Engineering Project\Project\SE_Software\CompSys\CompSys\obj\Debug\CompSys.pdb
+C:\Users\t00152975\Documents\MEGAsync\Software Engineering Project\Project\SE_Software\CompSys\CompSys\obj\Debug\CompSys.csprojResolveAssemblyReference.cache
+C:\Users\t00152975\Documents\MEGAsync\Software Engineering Project\Project\SE_Software\CompSys\CompSys\obj\Debug\CompSys.frmAmendCustomer.resources
+C:\Users\t00152975\Documents\MEGAsync\Software Engineering Project\Project\SE_Software\CompSys\CompSys\obj\Debug\CompSys.frmAmendStaff.resources
+C:\Users\t00152975\Documents\MEGAsync\Software Engineering Project\Project\SE_Software\CompSys\CompSys\obj\Debug\CompSys.frmCollectRepair.resources
+C:\Users\t00152975\Documents\MEGAsync\Software Engineering Project\Project\SE_Software\CompSys\CompSys\obj\Debug\CompSys.frmFinaliseRepair.resources
+C:\Users\t00152975\Documents\MEGAsync\Software Engineering Project\Project\SE_Software\CompSys\CompSys\obj\Debug\CompSys.frmIncomeAnalysis.resources
+C:\Users\t00152975\Documents\MEGAsync\Software Engineering Project\Project\SE_Software\CompSys\CompSys\obj\Debug\CompSys.frmIssueInvoice.resources
+C:\Users\t00152975\Documents\MEGAsync\Software Engineering Project\Project\SE_Software\CompSys\CompSys\obj\Debug\CompSys.frmListCustomer.resources
+C:\Users\t00152975\Documents\MEGAsync\Software Engineering Project\Project\SE_Software\CompSys\CompSys\obj\Debug\CompSys.frmListStaff.resources
+C:\Users\t00152975\Documents\MEGAsync\Software Engineering Project\Project\SE_Software\CompSys\CompSys\obj\Debug\CompSys.frmLogin.resources
+C:\Users\t00152975\Documents\MEGAsync\Software Engineering Project\Project\SE_Software\CompSys\CompSys\obj\Debug\CompSys.frmMain.resources
+C:\Users\t00152975\Documents\MEGAsync\Software Engineering Project\Project\SE_Software\CompSys\CompSys\obj\Debug\CompSys.frmNewCustomer.resources
+C:\Users\t00152975\Documents\MEGAsync\Software Engineering Project\Project\SE_Software\CompSys\CompSys\obj\Debug\CompSys.frmNewRepair.resources
+C:\Users\t00152975\Documents\MEGAsync\Software Engineering Project\Project\SE_Software\CompSys\CompSys\obj\Debug\CompSys.frmNewStaff.resources
+C:\Users\t00152975\Documents\MEGAsync\Software Engineering Project\Project\SE_Software\CompSys\CompSys\obj\Debug\CompSys.frmQueryCustomer.resources
+C:\Users\t00152975\Documents\MEGAsync\Software Engineering Project\Project\SE_Software\CompSys\CompSys\obj\Debug\CompSys.frmRepairReport.resources
+C:\Users\t00152975\Documents\MEGAsync\Software Engineering Project\Project\SE_Software\CompSys\CompSys\obj\Debug\CompSys.frmSetEstimate.resources
+C:\Users\t00152975\Documents\MEGAsync\Software Engineering Project\Project\SE_Software\CompSys\CompSys\obj\Debug\CompSys.frmValidateRepair.resources
+C:\Users\t00152975\Documents\MEGAsync\Software Engineering Project\Project\SE_Software\CompSys\CompSys\obj\Debug\CompSys.frmListRepairJobs.resources
+C:\Users\t00152975\Documents\MEGAsync\Software Engineering Project\Project\SE_Software\CompSys\CompSys\obj\Debug\CompSys.csproj.GenerateResource.Cache
+C:\Users\t00152975\Documents\MEGAsync\Software Engineering Project\Project\SE_Software\CompSys\CompSys\bin\Debug\CompSys.exe
+C:\Users\t00152975\Documents\MEGAsync\Software Engineering Project\Project\SE_Software\CompSys\CompSys\bin\Debug\CompSys.pdb
+C:\Users\t00152975\Documents\MEGAsync\Software Engineering Project\Project\SE_Software\CompSys\CompSys\obj\Debug\CompSys.Properties.Resources.resources
+C:\Users\t00152975\Documents\MEGAsync\Project\SE_Software\CompSys\CompSys\bin\Debug\CompSys.exe.config
+C:\Users\t00152975\Documents\MEGAsync\Project\SE_Software\CompSys\CompSys\obj\Debug\CompSys.exe
+C:\Users\t00152975\Documents\MEGAsync\Project\SE_Software\CompSys\CompSys\obj\Debug\CompSys.pdb
+C:\Users\t00152975\Documents\MEGAsync\Project\SE_Software\CompSys\CompSys\bin\Debug\CompSys.exe
+C:\Users\t00152975\Documents\MEGAsync\Project\SE_Software\CompSys\CompSys\bin\Debug\CompSys.pdb
+C:\Users\t00152975\Documents\MEGAsync\Project\SE_Software\CompSys\CompSys\obj\Debug\CompSys.csprojResolveAssemblyReference.cache
+C:\Users\t00152975\Documents\MEGAsync\Project\SE_Software\CompSys\CompSys\obj\Debug\CompSys.frmAmendCustomer.resources
+C:\Users\t00152975\Documents\MEGAsync\Project\SE_Software\CompSys\CompSys\obj\Debug\CompSys.frmAmendStaff.resources
+C:\Users\t00152975\Documents\MEGAsync\Project\SE_Software\CompSys\CompSys\obj\Debug\CompSys.frmCollectRepair.resources
+C:\Users\t00152975\Documents\MEGAsync\Project\SE_Software\CompSys\CompSys\obj\Debug\CompSys.frmFinaliseRepair.resources
+C:\Users\t00152975\Documents\MEGAsync\Project\SE_Software\CompSys\CompSys\obj\Debug\CompSys.frmIncomeAnalysis.resources
+C:\Users\t00152975\Documents\MEGAsync\Project\SE_Software\CompSys\CompSys\obj\Debug\CompSys.frmIssueInvoice.resources
+C:\Users\t00152975\Documents\MEGAsync\Project\SE_Software\CompSys\CompSys\obj\Debug\CompSys.frmListCustomer.resources
+C:\Users\t00152975\Documents\MEGAsync\Project\SE_Software\CompSys\CompSys\obj\Debug\CompSys.frmListStaff.resources
+C:\Users\t00152975\Documents\MEGAsync\Project\SE_Software\CompSys\CompSys\obj\Debug\CompSys.frmLogin.resources
+C:\Users\t00152975\Documents\MEGAsync\Project\SE_Software\CompSys\CompSys\obj\Debug\CompSys.frmMain.resources
+C:\Users\t00152975\Documents\MEGAsync\Project\SE_Software\CompSys\CompSys\obj\Debug\CompSys.frmNewCustomer.resources
+C:\Users\t00152975\Documents\MEGAsync\Project\SE_Software\CompSys\CompSys\obj\Debug\CompSys.frmNewRepair.resources
+C:\Users\t00152975\Documents\MEGAsync\Project\SE_Software\CompSys\CompSys\obj\Debug\CompSys.frmNewStaff.resources
+C:\Users\t00152975\Documents\MEGAsync\Project\SE_Software\CompSys\CompSys\obj\Debug\CompSys.frmQueryCustomer.resources
+C:\Users\t00152975\Documents\MEGAsync\Project\SE_Software\CompSys\CompSys\obj\Debug\CompSys.frmRepairReport.resources
+C:\Users\t00152975\Documents\MEGAsync\Project\SE_Software\CompSys\CompSys\obj\Debug\CompSys.frmSetEstimate.resources
+C:\Users\t00152975\Documents\MEGAsync\Project\SE_Software\CompSys\CompSys\obj\Debug\CompSys.frmValidateRepair.resources
+C:\Users\t00152975\Documents\MEGAsync\Project\SE_Software\CompSys\CompSys\obj\Debug\CompSys.frmListRepairJobs.resources
+C:\Users\t00152975\Documents\MEGAsync\Project\SE_Software\CompSys\CompSys\obj\Debug\CompSys.Properties.Resources.resources
+C:\Users\t00152975\Documents\MEGAsync\Project\SE_Software\CompSys\CompSys\obj\Debug\CompSys.csproj.GenerateResource.Cache
+E:\CompSys\CompSys\bin\Debug\CompSys.exe.config
+E:\CompSys\CompSys\obj\Debug\CompSys.exe
+E:\CompSys\CompSys\obj\Debug\CompSys.pdb
+E:\CompSys\CompSys\bin\Debug\CompSys.exe
+E:\CompSys\CompSys\bin\Debug\CompSys.pdb
+E:\CompSys\CompSys\obj\Debug\CompSys.csprojResolveAssemblyReference.cache
+E:\CompSys\CompSys\obj\Debug\CompSys.frmAmendCustomer.resources
+E:\CompSys\CompSys\obj\Debug\CompSys.frmAmendStaff.resources
+E:\CompSys\CompSys\obj\Debug\CompSys.frmCollectRepair.resources
+E:\CompSys\CompSys\obj\Debug\CompSys.frmFinaliseRepair.resources
+E:\CompSys\CompSys\obj\Debug\CompSys.frmIncomeAnalysis.resources
+E:\CompSys\CompSys\obj\Debug\CompSys.frmIssueInvoice.resources
+E:\CompSys\CompSys\obj\Debug\CompSys.frmListCustomer.resources
+E:\CompSys\CompSys\obj\Debug\CompSys.frmListStaff.resources
+E:\CompSys\CompSys\obj\Debug\CompSys.frmLogin.resources
+E:\CompSys\CompSys\obj\Debug\CompSys.frmMain.resources
+E:\CompSys\CompSys\obj\Debug\CompSys.frmNewCustomer.resources
+E:\CompSys\CompSys\obj\Debug\CompSys.frmNewRepair.resources
+E:\CompSys\CompSys\obj\Debug\CompSys.frmNewStaff.resources
+E:\CompSys\CompSys\obj\Debug\CompSys.frmQueryCustomer.resources
+E:\CompSys\CompSys\obj\Debug\CompSys.frmRepairReport.resources
+E:\CompSys\CompSys\obj\Debug\CompSys.frmSetEstimate.resources
+E:\CompSys\CompSys\obj\Debug\CompSys.frmSetRepairRate.resources
+E:\CompSys\CompSys\obj\Debug\CompSys.frmValidateRepair.resources
+E:\CompSys\CompSys\obj\Debug\CompSys.frmListRepairJobs.resources
+E:\CompSys\CompSys\obj\Debug\CompSys.Properties.Resources.resources
+E:\CompSys\CompSys\obj\Debug\CompSys.csproj.GenerateResource.Cache
+I:\CompSys\CompSys\bin\Debug\CompSys.exe.config
+I:\CompSys\CompSys\obj\Debug\CompSys.exe
+I:\CompSys\CompSys\obj\Debug\CompSys.pdb
+I:\CompSys\CompSys\bin\Debug\CompSys.exe
+I:\CompSys\CompSys\bin\Debug\CompSys.pdb
+I:\CompSys\CompSys\obj\Debug\CompSys.csprojResolveAssemblyReference.cache
+I:\CompSys\CompSys\obj\Debug\CompSys.frmAmendCustomer.resources
+I:\CompSys\CompSys\obj\Debug\CompSys.frmAmendStaff.resources
+I:\CompSys\CompSys\obj\Debug\CompSys.frmCollectRepair.resources
+I:\CompSys\CompSys\obj\Debug\CompSys.frmFinaliseRepair.resources
+I:\CompSys\CompSys\obj\Debug\CompSys.frmIncomeAnalysis.resources
+I:\CompSys\CompSys\obj\Debug\CompSys.frmIssueInvoice.resources
+I:\CompSys\CompSys\obj\Debug\CompSys.frmListCustomer.resources
+I:\CompSys\CompSys\obj\Debug\CompSys.frmListStaff.resources
+I:\CompSys\CompSys\obj\Debug\CompSys.frmLogin.resources
+I:\CompSys\CompSys\obj\Debug\CompSys.frmMain.resources
+I:\CompSys\CompSys\obj\Debug\CompSys.frmNewCustomer.resources
+I:\CompSys\CompSys\obj\Debug\CompSys.frmNewRepair.resources
+I:\CompSys\CompSys\obj\Debug\CompSys.frmNewStaff.resources
+I:\CompSys\CompSys\obj\Debug\CompSys.frmQueryCustomer.resources
+I:\CompSys\CompSys\obj\Debug\CompSys.frmRepairReport.resources
+I:\CompSys\CompSys\obj\Debug\CompSys.frmSetEstimate.resources
+I:\CompSys\CompSys\obj\Debug\CompSys.frmSetRepairRate.resources
+I:\CompSys\CompSys\obj\Debug\CompSys.frmValidateRepair.resources
+I:\CompSys\CompSys\obj\Debug\CompSys.frmListRepairJobs.resources
+I:\CompSys\CompSys\obj\Debug\CompSys.Properties.Resources.resources
+I:\CompSys\CompSys\obj\Debug\CompSys.csproj.GenerateResource.Cache
+C:\Users\Nazzy\Desktop\CompSys\CompSys\bin\Debug\CompSys.exe.config
+C:\Users\Nazzy\Desktop\CompSys\CompSys\bin\Debug\CompSys.exe
+C:\Users\Nazzy\Desktop\CompSys\CompSys\bin\Debug\CompSys.pdb
+C:\Users\Nazzy\Desktop\CompSys\CompSys\obj\Debug\CompSys.frmAmendCustomer.resources
+C:\Users\Nazzy\Desktop\CompSys\CompSys\obj\Debug\CompSys.frmAmendStaff.resources
+C:\Users\Nazzy\Desktop\CompSys\CompSys\obj\Debug\CompSys.frmCollectRepair.resources
+C:\Users\Nazzy\Desktop\CompSys\CompSys\obj\Debug\CompSys.frmFinaliseRepair.resources
+C:\Users\Nazzy\Desktop\CompSys\CompSys\obj\Debug\CompSys.frmIncomeAnalysis.resources
+C:\Users\Nazzy\Desktop\CompSys\CompSys\obj\Debug\CompSys.frmIssueInvoice.resources
+C:\Users\Nazzy\Desktop\CompSys\CompSys\obj\Debug\CompSys.frmListCustomer.resources
+C:\Users\Nazzy\Desktop\CompSys\CompSys\obj\Debug\CompSys.frmListStaff.resources
+C:\Users\Nazzy\Desktop\CompSys\CompSys\obj\Debug\CompSys.frmLogin.resources
+C:\Users\Nazzy\Desktop\CompSys\CompSys\obj\Debug\CompSys.frmMain.resources
+C:\Users\Nazzy\Desktop\CompSys\CompSys\obj\Debug\CompSys.frmNewCustomer.resources
+C:\Users\Nazzy\Desktop\CompSys\CompSys\obj\Debug\CompSys.frmNewRepair.resources
+C:\Users\Nazzy\Desktop\CompSys\CompSys\obj\Debug\CompSys.frmNewStaff.resources
+C:\Users\Nazzy\Desktop\CompSys\CompSys\obj\Debug\CompSys.frmQueryCustomer.resources
+C:\Users\Nazzy\Desktop\CompSys\CompSys\obj\Debug\CompSys.frmRepairReport.resources
+C:\Users\Nazzy\Desktop\CompSys\CompSys\obj\Debug\CompSys.frmSetEstimate.resources
+C:\Users\Nazzy\Desktop\CompSys\CompSys\obj\Debug\CompSys.frmSetRepairRate.resources
+C:\Users\Nazzy\Desktop\CompSys\CompSys\obj\Debug\CompSys.frmValidateRepair.resources
+C:\Users\Nazzy\Desktop\CompSys\CompSys\obj\Debug\CompSys.frmListRepairJobs.resources
+C:\Users\Nazzy\Desktop\CompSys\CompSys\obj\Debug\CompSys.Properties.Resources.resources
+C:\Users\Nazzy\Desktop\CompSys\CompSys\obj\Debug\CompSys.csproj.GenerateResource.Cache
+C:\Users\Nazzy\Desktop\CompSys\CompSys\obj\Debug\CompSys.exe
+C:\Users\Nazzy\Desktop\CompSys\CompSys\obj\Debug\CompSys.pdb
+C:\Users\Nazzy\Desktop\CompSys\CompSys\obj\Debug\CompSys.csprojResolveAssemblyReference.cache
+C:\Users\Nazmul\Desktop\CompSys\CompSys\bin\Debug\CompSys.exe.config
+C:\Users\Nazmul\Desktop\CompSys\CompSys\obj\Debug\CompSys.exe
+C:\Users\Nazmul\Desktop\CompSys\CompSys\obj\Debug\CompSys.pdb
+C:\Users\Nazmul\Desktop\CompSys\CompSys\bin\Debug\CompSys.exe
+C:\Users\Nazmul\Desktop\CompSys\CompSys\bin\Debug\CompSys.pdb
+C:\Users\Nazmul\Desktop\CompSys\CompSys\obj\Debug\CompSys.csprojResolveAssemblyReference.cache
+C:\Users\Nazmul\Desktop\CompSys\CompSys\obj\Debug\CompSys.frmAmendCustomer.resources
+C:\Users\Nazmul\Desktop\CompSys\CompSys\obj\Debug\CompSys.frmAmendStaff.resources
+C:\Users\Nazmul\Desktop\CompSys\CompSys\obj\Debug\CompSys.frmCollectRepair.resources
+C:\Users\Nazmul\Desktop\CompSys\CompSys\obj\Debug\CompSys.frmFinaliseRepair.resources
+C:\Users\Nazmul\Desktop\CompSys\CompSys\obj\Debug\CompSys.frmIncomeAnalysis.resources
+C:\Users\Nazmul\Desktop\CompSys\CompSys\obj\Debug\CompSys.frmIssueInvoice.resources
+C:\Users\Nazmul\Desktop\CompSys\CompSys\obj\Debug\CompSys.frmListCustomer.resources
+C:\Users\Nazmul\Desktop\CompSys\CompSys\obj\Debug\CompSys.frmListStaff.resources
+C:\Users\Nazmul\Desktop\CompSys\CompSys\obj\Debug\CompSys.frmLogin.resources
+C:\Users\Nazmul\Desktop\CompSys\CompSys\obj\Debug\CompSys.frmMain.resources
+C:\Users\Nazmul\Desktop\CompSys\CompSys\obj\Debug\CompSys.frmNewCustomer.resources
+C:\Users\Nazmul\Desktop\CompSys\CompSys\obj\Debug\CompSys.frmNewRepair.resources
+C:\Users\Nazmul\Desktop\CompSys\CompSys\obj\Debug\CompSys.frmNewStaff.resources
+C:\Users\Nazmul\Desktop\CompSys\CompSys\obj\Debug\CompSys.frmQueryCustomer.resources
+C:\Users\Nazmul\Desktop\CompSys\CompSys\obj\Debug\CompSys.frmRepairReport.resources
+C:\Users\Nazmul\Desktop\CompSys\CompSys\obj\Debug\CompSys.frmSetEstimate.resources
+C:\Users\Nazmul\Desktop\CompSys\CompSys\obj\Debug\CompSys.frmValidateRepair.resources
+C:\Users\Nazmul\Desktop\CompSys\CompSys\obj\Debug\CompSys.frmListRepairJobs.resources
+C:\Users\Nazmul\Desktop\CompSys\CompSys\obj\Debug\CompSys.Properties.Resources.resources
+C:\Users\Nazmul\Desktop\CompSys\CompSys\obj\Debug\CompSys.csproj.GenerateResource.Cache
+C:\Users\Nazmul\Desktop\CompSys\CompSys\bin\Debug\Oracle.DataAccess.dll
+C:\Users\Nazmul\Desktop\CompSys\CompSys\obj\Debug\CompSys.frmInventory.resources
+C:\Users\t00152975\Documents\MEGAsync\Software Engineering Project\Project\SE_Software\CompSys\CompSys\obj\Debug\CompSys.frmInventory.resources
+C:\Users\t00152975\Documents\MEGAsync\Project\SE_Software\CompSys\CompSys\obj\Debug\CompSys.frmInventory.resources
+C:\Users\t00152975\Desktop\CompSys\CompSys\bin\Debug\CompSys.exe.config
+C:\Users\t00152975\Desktop\CompSys\CompSys\obj\Debug\CompSys.exe
+C:\Users\t00152975\Desktop\CompSys\CompSys\obj\Debug\CompSys.pdb
+C:\Users\t00152975\Desktop\CompSys\CompSys\bin\Debug\CompSys.exe
+C:\Users\t00152975\Desktop\CompSys\CompSys\bin\Debug\CompSys.pdb
+C:\Users\t00152975\Desktop\CompSys\CompSys\obj\Debug\CompSys.csprojResolveAssemblyReference.cache
+C:\Users\t00152975\Desktop\CompSys\CompSys\obj\Debug\CompSys.frmAmendCustomer.resources
+C:\Users\t00152975\Desktop\CompSys\CompSys\obj\Debug\CompSys.frmAmendStaff.resources
+C:\Users\t00152975\Desktop\CompSys\CompSys\obj\Debug\CompSys.frmCollectRepair.resources
+C:\Users\t00152975\Desktop\CompSys\CompSys\obj\Debug\CompSys.frmFinaliseRepair.resources
+C:\Users\t00152975\Desktop\CompSys\CompSys\obj\Debug\CompSys.frmIncomeAnalysis.resources
+C:\Users\t00152975\Desktop\CompSys\CompSys\obj\Debug\CompSys.frmIssueInvoice.resources
+C:\Users\t00152975\Desktop\CompSys\CompSys\obj\Debug\CompSys.frmListCustomer.resources
+C:\Users\t00152975\Desktop\CompSys\CompSys\obj\Debug\CompSys.frmListStaff.resources
+C:\Users\t00152975\Desktop\CompSys\CompSys\obj\Debug\CompSys.frmLogin.resources
+C:\Users\t00152975\Desktop\CompSys\CompSys\obj\Debug\CompSys.frmMain.resources
+C:\Users\t00152975\Desktop\CompSys\CompSys\obj\Debug\CompSys.frmNewCustomer.resources
+C:\Users\t00152975\Desktop\CompSys\CompSys\obj\Debug\CompSys.frmNewRepair.resources
+C:\Users\t00152975\Desktop\CompSys\CompSys\obj\Debug\CompSys.frmNewStaff.resources
+C:\Users\t00152975\Desktop\CompSys\CompSys\obj\Debug\CompSys.frmQueryCustomer.resources
+C:\Users\t00152975\Desktop\CompSys\CompSys\obj\Debug\CompSys.frmRepairReport.resources
+C:\Users\t00152975\Desktop\CompSys\CompSys\obj\Debug\CompSys.frmSetEstimate.resources
+C:\Users\t00152975\Desktop\CompSys\CompSys\obj\Debug\CompSys.frmInventory.resources
+C:\Users\t00152975\Desktop\CompSys\CompSys\obj\Debug\CompSys.frmValidateRepair.resources
+C:\Users\t00152975\Desktop\CompSys\CompSys\obj\Debug\CompSys.frmListRepairJobs.resources
+C:\Users\t00152975\Desktop\CompSys\CompSys\obj\Debug\CompSys.Properties.Resources.resources
+C:\Users\t00152975\Desktop\CompSys\CompSys\obj\Debug\CompSys.csproj.GenerateResource.Cache

@@ -1,0 +1,12 @@
+C:\Users\Nazzy\Desktop\SE_Prototype\CompSys\CompSys\bin\x64\Debug\CompSys.exe.config
+C:\Users\Nazzy\Desktop\SE_Prototype\CompSys\CompSys\obj\x64\Debug\CompSys.csprojResolveAssemblyReference.cache
+C:\Users\Nazzy\Desktop\SE_Prototype\CompSys\CompSys\obj\x64\Debug\CompSys.frmAmendCustomer.resources
+C:\Users\Nazzy\Desktop\SE_Prototype\CompSys\CompSys\obj\x64\Debug\CompSys.frmAmendStaff.resources
+C:\Users\Nazzy\Desktop\SE_Prototype\CompSys\CompSys\obj\x64\Debug\CompSys.frmListCustomer.resources
+C:\Users\Nazzy\Desktop\SE_Prototype\CompSys\CompSys\obj\x64\Debug\CompSys.frmListStaff.resources
+C:\Users\Nazzy\Desktop\SE_Prototype\CompSys\CompSys\obj\x64\Debug\CompSys.frmMain.resources
+C:\Users\Nazzy\Desktop\SE_Prototype\CompSys\CompSys\obj\x64\Debug\CompSys.frmNewCustomer.resources
+C:\Users\Nazzy\Desktop\SE_Prototype\CompSys\CompSys\obj\x64\Debug\CompSys.frmNewStaff.resources
+C:\Users\Nazzy\Desktop\SE_Prototype\CompSys\CompSys\obj\x64\Debug\CompSys.frmSetRepairRate.resources
+C:\Users\Nazzy\Desktop\SE_Prototype\CompSys\CompSys\obj\x64\Debug\CompSys.Properties.Resources.resources
+C:\Users\Nazzy\Desktop\SE_Prototype\CompSys\CompSys\obj\x64\Debug\CompSys.csproj.GenerateResource.Cache
