@@ -52,6 +52,16 @@ CompSys aims to be a simple, fast and technician friendly way of managing your c
   3.	CompSys will generate income analysis to required specification.
   4.	CompSys will allow the system to set pre-defined repair rates and parts in the inventory. 
 
+## Screenshots
+**Login Screen**
+![alt text][login]
+[login]: http://i.imgur.com/isPSdCT.png "Login Screen"
+**Dashboard**
+![alt text][dashboard]
+[dashboard]: http://i.imgur.com/aEAzHO0.png "Dashboard"
+**Estimate**
+![alt text][estimate]
+[estimate]: http://i.imgur.com/hnl92jR.png "Set Estimate"
 
 ## What's included?
  * SQL Files ---- dir/ Oracle SQL Files 
