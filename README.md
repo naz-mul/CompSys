@@ -1,6 +1,8 @@
 Computer Repair System
 ==================
 
+[![Build status](https://ci.appveyor.com/api/projects/status/52l6ceime3ah9lvx?svg=true)](https://ci.appveyor.com/project/codingbat/compsys)
+
 ## Introduction
 CompSys is s computer repair system software to maintain everyday task for a computer repair shop. The software provides cutting-edge technology to make your daily task a lot more easier.
 
