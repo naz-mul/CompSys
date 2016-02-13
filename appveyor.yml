@@ -3,7 +3,3 @@ platform:
 - x86
 build:
   verbosity: minimal
-deploy:
-- provider: GitHub
-  on:
-    branch: master
